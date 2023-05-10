@@ -4,4 +4,4 @@
 
 ## Installation
 
-1. Click this: [Install Cobalt2 for Raycast](raycast://theme?version=1&name=Cobalt%202&colors=%23065085FF,%23065085FF,%23FFFEFAFF,%23FFFFFFFF,%23FFC600FF,%23FF5757FF,%23FF9D00FF,%23FFC600FF,%23ACF4A5FF,%2383C7FBFF,%23A496FFFF,%23FF5AB2FF&appearance=dark)
+1. Copy this URL and paste into your browser. `raycast://theme?version=1&name=Cobalt%202&colors=%23065085FF,%23065085FF,%23FFFEFAFF,%23FFFFFFFF,%23FFC600FF,%23FF5757FF,%23FF9D00FF,%23FFC600FF,%23ACF4A5FF,%2383C7FBFF,%23A496FFFF,%23FF5AB2FF&appearance=dark`
